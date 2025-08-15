@@ -1,5 +1,5 @@
 🚀 JupyterLab: Your Quick Start Guide
-Welcome to JupyterLab! It's a powerful, web-based interactive environment perfect for data science, scientific computing, and machine learning. Think of it as a digital lab notebook where you can write code, add explanatory text, and see your results instantly, all in one place.
+Welcome to JupyterLab! It's a powerful, web-based interactive environment perfect for AI , data science, scientific computing, and machine learning. Think of it as a digital lab notebook where you can write code, add explanatory text, and see your results instantly, all in one place.
 
 ## ⚙️ Getting Started: Installation & Launch
 Getting JupyterLab up and running is straightforward.
